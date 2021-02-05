@@ -1,4 +1,4 @@
-package com.nearlypointchat;
+package com.kucingitem.nearlypointchat;
 
 import com.facebook.react.ReactActivity;
 

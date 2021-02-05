@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.nearlypointchat">
+  package="com.kucingitem.nearlypointchat">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

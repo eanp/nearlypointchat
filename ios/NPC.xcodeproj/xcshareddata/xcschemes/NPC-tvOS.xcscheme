@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "nearlypointchat-tvOS.app"
-               BlueprintName = "nearlypointchat-tvOS"
-               ReferencedContainer = "container:nearlypointchat.xcodeproj">
+               BuildableName = "NPC-tvOS.app"
+               BlueprintName = "NPC-tvOS"
+               ReferencedContainer = "container:NPC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "nearlypointchat-tvOSTests.xctest"
-               BlueprintName = "nearlypointchat-tvOSTests"
-               ReferencedContainer = "container:nearlypointchat.xcodeproj">
+               BuildableName = "NPC-tvOSTests.xctest"
+               BlueprintName = "NPC-tvOSTests"
+               ReferencedContainer = "container:NPC.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "nearlypointchat-tvOS.app"
-            BlueprintName = "nearlypointchat-tvOS"
-            ReferencedContainer = "container:nearlypointchat.xcodeproj">
+            BuildableName = "NPC-tvOS.app"
+            BlueprintName = "NPC-tvOS"
+            ReferencedContainer = "container:NPC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "nearlypointchat-tvOS.app"
-            BlueprintName = "nearlypointchat-tvOS"
-            ReferencedContainer = "container:nearlypointchat.xcodeproj">
+            BuildableName = "NPC-tvOS.app"
+            BlueprintName = "NPC-tvOS"
+            ReferencedContainer = "container:NPC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
