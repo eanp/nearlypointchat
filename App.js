@@ -1,17 +1,15 @@
-// import React from 'react';
-// import {
-//   StyleSheet,
-// } from 'react-native';
-// import Router from '@/Router/'
+import React from 'react';
+import {
+  StyleSheet,
+} from 'react-native';
+import Router from '@/Router';
 
-// function App() {
+export default function App() {
 
-//   return (
-//     <Router />
-//   );
-// };
+  return (
+    <Router />
+  );
+};
 
-// const styles = StyleSheet.create({
-// });
-
-// export default App;
+const styles = StyleSheet.create({
+});
