@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "nearlypointchat.app"
-               BlueprintName = "nearlypointchat"
-               ReferencedContainer = "container:nearlypointchat.xcodeproj">
+               BuildableName = "NPC.app"
+               BlueprintName = "NPC"
+               ReferencedContainer = "container:NPC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "nearlypointchatTests.xctest"
-               BlueprintName = "nearlypointchatTests"
-               ReferencedContainer = "container:nearlypointchat.xcodeproj">
+               BuildableName = "NPCTests.xctest"
+               BlueprintName = "NPCTests"
+               ReferencedContainer = "container:NPC.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "nearlypointchat.app"
-            BlueprintName = "nearlypointchat"
-            ReferencedContainer = "container:nearlypointchat.xcodeproj">
+            BuildableName = "NPC.app"
+            BlueprintName = "NPC"
+            ReferencedContainer = "container:NPC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "nearlypointchat.app"
-            BlueprintName = "nearlypointchat"
-            ReferencedContainer = "container:nearlypointchat.xcodeproj">
+            BuildableName = "NPC.app"
+            BlueprintName = "NPC"
+            ReferencedContainer = "container:NPC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
